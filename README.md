@@ -39,7 +39,7 @@
 <p align="left">
 <a href="https://medium.com/@kanani-nirav" target="blank"><img align="center" src="./icons/medium.svg" alt="@kanani-nirav" height="30" width="40" /></a>
 <a href="https://dev.to/kanani_nirav" target="blank"><img align="center" src="./icons/devto.svg" alt="kanani_nirav" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nirav-kanani" target="blank"><img align="center" src="./icons/linked-in-alt.svg" alt="nirav-kanani" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prince-kumar-9776b0157/" target="blank"><img align="center" src="./icons/linked-in-alt.svg" alt="Prince Kumar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12288988/nirav-kanani" target="blank"><img align="center" src="./icons/stack-overflow.svg" alt="nirav-kanani" height="30" width="40" /></a>
 <a href="https://twitter.com/kananinirav1" target="blank"><img align="center" src="./icons/twitter.svg" alt="kananinirav1" height="30" width="40" /></a>
 </p>
