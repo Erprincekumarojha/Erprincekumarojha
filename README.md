@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm Kanani Nirav</h1>
-<h3 align="center">Professional Ruby On Rails Developer</h3>
-<h4 align="center">Software Engineer 💻 Passionate about continuous growth and development.</h4>
+<h1 align="center">Hi 👋, I'm Prince Kumar</h1>
+<h3 align="center">Professional Java Fullstack Developer</h3>
+<h4 align="center">Senior Software Engineer 💻 Passionate about continuous growth and development.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kananinirav&label=Profile%20views&color=0e75b6&style=flat" alt="kananinirav" /> </p>
 
 - 🌱 I’m currently learning React JS and AWS Cloud
 
-- 👨‍💻 All of my projects are available at [https://github.com/kananinirav](https://github.com/kananinirav)
+- 👨‍💻 All of my projects are available at [https://github.com/Erprincekumarojha](https://github.com/Erprincekumarojha)
 
 - 📝 I regularly write articles on [https://medium.com/@kanani-nirav](https://medium.com/@kanani-nirav)
 
-- 📫 How to reach me **kananinirav0@gmail.com**
+- 📫 How to reach me **pk22cs@gmail.com**
 
 <p><img align="left" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" /></p>
 
