@@ -40,6 +40,7 @@
 ## ✨GitHub Stats
 
 <br/>
+![cource promotionat 12 50 00 PM](https://github.com/Erprincekumarojha/Erprincekumarojha/assets/47948908/3f711f7c-263a-4323-bcc1-e4d6ebb27a7c)
 
 ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kananinirav&theme=nord)
 
