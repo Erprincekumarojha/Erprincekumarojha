@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Erprincekumarojha](https://github.com/Erprincekumarojha)
 
-- 📝 I regularly write articles on [https://medium.com/@kanani-nirav](https://medium.com/@kanani-nirav)
+- 📝 I regularly create course write articles on [https://javaisawesome.graphy.com/](https://javaisawesome.graphy.com/)
 
 - 📫 How to reach me **pk22cs@gmail.com**
 
