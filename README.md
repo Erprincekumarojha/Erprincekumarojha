@@ -12,9 +12,9 @@
 
 - 📫 How to reach me **pk22cs@gmail.com**
 
-<p><img align="left" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" /></p>
-
-<p><img align="left" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Rails" /></p>
+<p><img align="left" src="./icons/java.png" alt="Java" width="40px" height="40px"/></p>
+    
+<p><img align="left" src="./icons/springboot.png" alt="SpringBoot" width="40px height="40px" /></p>
 
 <p><img align="left" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /></p>
 
@@ -22,7 +22,7 @@
 
 ## 📚 Blogs Post           |
 
-</details>
+<a href="https://javaisawesome.graphy.com/" ><img src="./icons/javaisawesome.PNG" width="100%" height="200%" alt="javaisawesome"></a>
 
 ## ✨GitHub Stats
 
